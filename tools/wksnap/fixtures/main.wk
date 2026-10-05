@@ -1,0 +1,9 @@
+let a = 3;
+let b = a * 4;
+a + b;
+[1, 2, a];
+{"z": [1, 2], "a": b, "m": "x"};
+if (a > 2) { "yes" } else { "no" };
+fn(x, y) { x + y };
+len([1, 2, 3]);
+{"c": write(3), "a": write(1), "b": write(2)};
